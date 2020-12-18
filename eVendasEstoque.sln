@@ -19,8 +19,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Mappers", "6 - Mappers"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 - ViewModels", "7 - ViewModels", "{9A8206DE-9FDA-4BA9-A770-E94E113C30A0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 - Tests", "8 - Tests", "{3C30534C-7E8E-4AFD-A011-47052BC695BF}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EVendas.Service", "..\eVendas.Service\EVendas.Service.csproj", "{2EB1B38B-38CA-4BD9-979E-8D37D9CF7AD0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EVendas.Repository", "..\EVendas.Repository\EVendas.Repository.csproj", "{64C01CBD-12FF-4294-9A2A-AE300C30B472}"
@@ -31,7 +29,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EVendas.Mapper", "..\EVenda
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EVendas.ViewModel", "..\EVendas.ViewModel\EVendas.ViewModel.csproj", "{169CF33C-B8CE-4BDF-ACB9-0171DF441AD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVendas.Exceptions", "..\EVendas.Exceptions\EVendas.Exceptions.csproj", "{606C23CF-F2C6-4838-A015-2794EBA5C7D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EVendas.Exceptions", "..\EVendas.Exceptions\EVendas.Exceptions.csproj", "{606C23CF-F2C6-4838-A015-2794EBA5C7D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
